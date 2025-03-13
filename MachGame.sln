@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachGame", "MachGame.csproj", "{ECB35BD0-A9F3-4B3A-8F09-F0878EFD5F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB35BD0-A9F3-4B3A-8F09-F0878EFD5F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB35BD0-A9F3-4B3A-8F09-F0878EFD5F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB35BD0-A9F3-4B3A-8F09-F0878EFD5F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB35BD0-A9F3-4B3A-8F09-F0878EFD5F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2A15EE6-8A2D-45BD-9B0F-F75EB943C1F1}
+	EndGlobalSection
+EndGlobal
